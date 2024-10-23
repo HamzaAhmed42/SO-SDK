@@ -33,6 +33,15 @@ With **Zombies mode**, **TDM**, and custom maps already in place, future updates
 ## **Disclaimer**
 This is a **fan-made, non-profit game** created purely for fun and not intended to infringe on the rights of *Call of Duty*. All rights to *Call of Duty* are owned by **Activision**, and credit also goes to **Neversoft** for **NX1 Future Warfare** assets. *Call of Dutie: Snack Ops* is an independent project by **PGD**.
 
+## **Download Notes**
+Requirements:
+- **Unreal Engine 5.3.2**: User will need to have Installed UE 5.3.2 On there Machine in the C:\ Drive enable to use this SDK or Play in Editor as non editor builds havent been made yet.
+- **Windows 11**: User Must have Windows 11 or Higher to Run this Program or Editor.
+
+## **UGC / Mods Info**
+- **User Generated Content**: this is Planned for later not yet but we will update this section before it has come to that time.
+- **Mods**: Mods of gameplay and maps is later planned with full community mod support and so on so no worries though we dont advise it yet as they will need extensive reviewal etc.
+
 ---
 
 Expect more updates as we continue to add exciting features, maps, and modes to the game!
